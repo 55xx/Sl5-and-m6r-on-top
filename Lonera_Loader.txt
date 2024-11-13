@@ -1,1 +1,0 @@
-print("updated go to my discord @05y_ dm me")
